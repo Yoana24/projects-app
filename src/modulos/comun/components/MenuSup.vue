@@ -5,6 +5,4 @@
         <h2 class="text-lg font-bold text-pink-700">YoasRenders</h2>
     </div>
 
-    
-
 </template>
