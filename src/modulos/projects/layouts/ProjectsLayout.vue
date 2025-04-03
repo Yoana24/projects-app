@@ -4,7 +4,7 @@
 <MenuSup></MenuSup>
 
 
-    <main>
+    <main class="flex flex-row">
          
         <MenuLateral></MenuLateral>
         <RouterView></RouterView>
